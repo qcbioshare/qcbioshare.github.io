@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phyloxml xmlns="http://www.phyloxml.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+   <phylogeny>
+      <clade>
+         <clade>
+            <clade>
+               <name>Hadobacteria</name>
+            </clade>
+            <clade>
+               <clade>
+                  <name>Hyperthermophilic Bacteria</name>
+               </clade>
+               <clade>
+                  <clade>
+                     <clade>
+                        <name>Firmicutes Low GC Gram Positives</name>
+                     </clade>
+                     <clade>
+                        <clade>
+                           <name>Actinobacteria High GC Gram Positives</name>
+                        </clade>
+                        <clade>
+                           <name>Cyanobacteria</name>
+                        </clade>
+                        <name>First oxygen photosynthesis</name>
+                     </clade>
+                     <name>hyperFermiSplit</name>
+                  </clade>
+                  <clade>
+                     <clade>
+                        <name>Spirochetes</name>
+                     </clade>
+                     <clade>
+                        <clade>
+                           <name>Chlamydias</name>
+                        </clade>
+                        <clade>
+                           <name>Proteobacteria</name>
+                        </clade>
+                        <name />
+                     </clade>
+                     <name>hyperSpiroSplit</name>
+                  </clade>
+                  <name>hyperFermSpiroSplit</name>
+               </clade>
+               <name>hadoHyperSplit</name>
+            </clade>
+            <name>Bacteria</name>
+         </clade>
+         <clade>
+            <clade>
+               <clade>
+                  <clade>
+                     <clade>
+                        <clade>
+                           <name>Dinoflagellates</name>
+                        </clade>
+                        <clade>
+                           <name>Apicomplexans</name>
+                        </clade>
+                        <name>Myzozoa</name>
+                     </clade>
+                     <clade>
+                        <name>Ciliates</name>
+                     </clade>
+                     <name>Alveolates</name>
+                  </clade>
+                  <clade>
+                     <clade>
+                        <clade>
+                           <clade>
+                              <name>Diatoms</name>
+                           </clade>
+                           <clade>
+                              <name>Brown Algae</name>
+                           </clade>
+                           <name>Ochrophyta</name>
+                        </clade>
+                        <clade>
+                           <name>Oomycetes</name>
+                        </clade>
+                        <name>Stramenophiles</name>
+                     </clade>
+                     <clade>
+                        <clade>
+                           <clade>
+                              <name>Cercezoans</name>
+                           </clade>
+                           <clade>
+                              <name>Foraminiferans</name>
+                           </clade>
+                        </clade>
+                        <clade>
+                           <name>Radiolarians Radial Symmetry</name>
+                        </clade>
+                        <name>Rhizarians</name>
+                     </clade>
+                     <name>aveolStramSplit</name>
+                  </clade>
+                  <clade>
+                     <clade>
+                        <clade>
+                           <name>Diplomonads</name>
+                        </clade>
+                        <clade>
+                           <name>Parabasalids</name>
+                        </clade>
+                        <name>DipFriends</name>
+                     </clade>
+                     <clade>
+                        <clade>
+                           <name>Heteroloboseans</name>
+                        </clade>
+                        <clade>
+                           <clade>
+                              <name>Euglenids</name>
+                           </clade>
+                           <clade>
+                              <name>Kinetoplastids</name>
+                           </clade>
+                           <name>Eugfriends</name>
+                        </clade>
+                        <name>HetFriends</name>
+                     </clade>
+                     <name>Excavates</name>
+                  </clade>
+                  <clade>
+                     <clade>
+                        <name>Glaucophytes</name>
+                     </clade>
+                     <clade>
+                        <clade>
+                           <name>Red Algae Rhodophyta</name>
+                        </clade>
+                        <clade>
+                           <clade>
+                              <name>Chlorophytes Most Green Algae</name>
+                           </clade>
+                           <clade>
+                              <clade>
+                                 <name>Other Green Algae</name>
+                              </clade>
+                              <clade>
+                                 <clade>
+                                    <name>Coleochaetophytes</name>
+                                 </clade>
+                                 <clade>
+                                    <clade>
+                                       <name>Stoneworts</name>
+                                    </clade>
+                                    <clade>
+                                       <clade>
+                                          <name>Liverworts</name>
+                                       </clade>
+                                       <clade>
+                                          <clade>
+                                             <name>Mosses</name>
+                                          </clade>
+                                          <clade>
+                                             <clade>
+                                                <name>Hornworts</name>
+                                             </clade>
+                                             <clade>
+                                                <clade>
+                                                   <clade>
+                                                      <name>Club Mosses'</name>
+                                                   </clade>
+                                                </clade>
+                                                <clade>
+                                                   <clade>
+                                                      <clade>
+                                                         <name>Horsetails</name>
+                                                      </clade>
+                                                      <clade>
+                                                         <name>Ferns</name>
+                                                      </clade>
+                                                      <name>Monilophytes</name>
+                                                   </clade>
+                                                   <clade>
+                                                      <clade>
+                                                         <clade>
+                                                            <name>Cycads</name>
+                                                         </clade>
+                                                         <clade>
+                                                            <clade>
+                                                               <name>Gingko</name>
+                                                            </clade>
+                                                            <clade>
+                                                               <clade>
+                                                                  <name>Gnetophytes</name>
+                                                               </clade>
+                                                               <clade>
+                                                                  <name>Conifers</name>
+                                                               </clade>
+                                                               <name>Pollen tube with no swimming sperm</name>
+                                                            </clade>
+                                                            <name>GingkoFriends</name>
+                                                         </clade>
+                                                         <name>Gymnosperms with no ovary or fruit</name>
+                                                      </clade>
+                                                      <clade>
+                                                         <name>Angiosperms Flowers and Double Fertilization</name>
+                                                      </clade>
+                                                      <name>Seed plants</name>
+                                                   </clade>
+                                                   <name>Euphyllophytes with megaphyll leaves + overtopping growth</name>
+                                                </clade>
+                                                <name>Vascular Plants with tracheids + branching sporophyte + true roots</name>
+                                             </clade>
+                                             <name>Persistently green sporophyte</name>
+                                          </clade>
+                                          <name>Stomata</name>
+                                       </clade>
+                                       <name>Land Plants</name>
+                                    </clade>
+                                    <name>Branched apical growth</name>
+                                 </clade>
+                                 <name>Retains egg in parent + plasmodesmata</name>
+                              </clade>
+                              <name>Streptophytes</name>
+                           </clade>
+                           <name>Green plants with chlorophyll b + starch stage</name>
+                        </clade>
+                        <name>Rhodofriends</name>
+                     </clade>
+                     <name>PlantaeArchaeplastida + Chloroplasts</name>
+                  </clade>
+                  <clade>
+                     <clade>
+                        <clade>
+                           <name>Loboseans</name>
+                        </clade>
+                        <clade>
+                           <clade>
+                              <name>Plasmodial Slime Molds</name>
+                           </clade>
+                           <clade>
+                              <name>Cellular Slime Molds</name>
+                           </clade>
+                           <name>Slime Molds</name>
+                        </clade>
+                        <name>Amoebozoans</name>
+                     </clade>
+                     <clade>
+                        <clade>
+                           <name>Fungi</name>
+                        </clade>
+                        <clade>
+                           <clade>
+                              <name>Choanoflagellates</name>
+                           </clade>
+                           <clade>
+                              <name>Animals</name>
+                           </clade>
+                           <name />
+                        </clade>
+                        <name>Ophistokonts</name>
+                     </clade>
+                     <name>Unikonts</name>
+                  </clade>
+                  <name>Eukaryotes</name>
+               </clade>
+               <clade>
+                  <name>Lokiarchaeota</name>
+               </clade>
+               <name>Asgard</name>
+            </clade>
+            <clade>
+               <clade>
+                  <clade>
+                     <name>Korarchaeota</name>
+                  </clade>
+                  <clade>
+                     <clade>
+                        <name>Thaumarchaeota</name>
+                     </clade>
+                     <clade>
+                        <name>Crenarchaeota</name>
+                     </clade>
+                  </clade>
+                  <name>TACK</name>
+               </clade>
+               <name>Proteoarchaeota</name>
+            </clade>
+            <clade>
+               <name>Euryarchaeota</name>
+            </clade>
+            <name>Archaea</name>
+         </clade>
+         <name>OROOT</name>
+      </clade>
+   </phylogeny>
+</phyloxml>
